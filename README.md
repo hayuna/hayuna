@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on GitHub actions
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on https://github.com/Programmers-Only-Group
+- 🌱 I’m currently learning Typescript and Next.js
 - 👯 I’m looking to collaborate on fullstack project
